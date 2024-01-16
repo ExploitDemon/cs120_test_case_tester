@@ -1,0 +1,12 @@
+{
+  "python_files": [
+    {
+      "file_name": "word_grid.py",
+      "test_dir": "assg01_tests"
+    },
+    {
+      "file_name": "word_search.py",
+      "test_dir": "assg01_tests"
+    }
+  ]
+}
